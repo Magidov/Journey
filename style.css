@@ -83,3 +83,11 @@ body {
   background-color: #0074d9;
   border-radius: 50%;
 }
+.pull {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ color: white;
+ font-size: larger;
+ font-weight: bold;
+}
